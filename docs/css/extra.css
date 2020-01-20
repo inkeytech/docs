@@ -2,10 +2,10 @@
 border: 1px solid #FF0000;
 } */
 
-footer {
+/* footer {
   display: none;
-}
+} */
 
 footer div {
-  display: block !important;
+  display: none;
 }
