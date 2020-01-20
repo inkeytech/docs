@@ -3,10 +3,10 @@ border: 1px solid #FF0000;
 } */
 
 footer {
-  opacity: 0.5;
+  opacity: 0.2;
 } 
 
 footer div {
-  opacity: 0.75 !important;
+  opacity: 1.0 !important;
   border: 1px solid #FF0000;
 }
