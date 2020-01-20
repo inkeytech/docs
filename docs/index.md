@@ -1,7 +1,9 @@
 # Hello, this is Ian
-col1|col2|col3
--------------------
-Ian|Grant|Craig
-343|3234|335e
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ### Now is the time
