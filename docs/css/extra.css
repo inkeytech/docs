@@ -1,6 +1,9 @@
 footer {
   visibility: hidden !important;
-} 
+}
+footer>a {
+  visibility: hidden !important;
+}
 
 footer *{
   visibility: visible !important;
