@@ -1,10 +1,11 @@
+/* IW - 20/01/2020 - hide mkdocs advertising on footer */
+
 footer {
   visibility: hidden !important;
 }
 footer>a {
   visibility: hidden !important;
 }
-
 footer *{
   visibility: visible !important;
 }
