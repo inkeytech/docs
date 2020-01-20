@@ -2,10 +2,10 @@
 border: 1px solid #FF0000;
 } */
 
-/* footer {
-  display: none;
-} */
+footer {
+  opacity: 0;
+} 
 
 footer div {
-  display: none;
+  opacity: 0.75;
 }
