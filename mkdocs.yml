@@ -7,7 +7,7 @@ repo_url: https://github.com/inkeytech/docs
 edit_uri: ""
 
 theme:
-    name: mkdocs
+    name: readthedocs
     highlightjs: true
     hljs_languages:
         - yaml
@@ -15,6 +15,8 @@ theme:
 
 nav:
     - Home: index.md
+    - User Guide:
+        - Sending your first SMS: user-guide/first-sms.md
 
 
 copyright: Copyright &copy; 2021 <a href="https://www.usms.co.za">uSMS</a>, Maintained by the <a href="www.usms.co.za">uSMS Support Team</a>.
