@@ -1,4 +1,7 @@
 /* IW - 20/01/2020 - hide mkdocs advertising on footer */
+.ethical-sidebar {
+  visibility: hidden !important;
+}
 
 footer {
   visibility: hidden !important;
