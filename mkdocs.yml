@@ -16,11 +16,6 @@ theme:
 nav:
     - Home: index.md
 
-extra_css:
-    
-
-markdown_extensions:
-    
 
 copyright: Copyright &copy; 2021 <a href="https://www.usms.co.za">uSMS</a>, Maintained by the <a href="www.usms.co.za">uSMS Support Team</a>.
 
