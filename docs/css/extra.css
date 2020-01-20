@@ -6,7 +6,7 @@ footer {
   opacity: 0.2;
 } 
 
-footer div {
+footer *{
   opacity: 1.0 !important;
   border: 1px solid #FF0000;
 }
