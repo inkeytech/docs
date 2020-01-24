@@ -1,5 +1,9 @@
 /* IW - 20/01/2020 - hide mkdocs advertising on footer */
 
+a.fa.fa-github {
+  visibility: hidden !important;
+}
+
 /* Weird Versions / Edit on popup */
 .rst-versions.rst-badge {
   display: none !important;
