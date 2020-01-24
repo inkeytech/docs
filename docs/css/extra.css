@@ -1,4 +1,10 @@
 /* IW - 20/01/2020 - hide mkdocs advertising on footer */
+
+/* Weird Versions / Edit on popup */
+.rst-versions {
+  display: none;
+}
+
 .ethical-sidebar {
   visibility: hidden !important;
 }
